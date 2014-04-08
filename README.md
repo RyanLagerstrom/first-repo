@@ -1,4 +1,4 @@
 first-repo
 ==========
 
-First repository
+First repository ever
